@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "lastName": "fvvdfvd",
+      "firstName": "dfvfdvdf",
+      "phone": "2342",
+      "weekKPI": "32",
+      "monthKPI": "323",
+      "id": 1
+    },
+    {
+      "lastName": "calsdjkncdlskvn",
+      "firstName": "dslcvknslvn",
+      "phone": "234235252",
+      "weekKPI": "32",
+      "monthKPI": "4235",
+      "id": 2
+    },
+    {
+      "lastName": "wkgvjg",
+      "firstName": "ksjfv",
+      "phone": "234525",
+      "weekKPI": "23",
+      "monthKPI": "6464",
+      "id": 3
+    },
+    {
+      "lastName": "fvlenbl",
+      "firstName": "orijoowr",
+      "phone": "4988324983",
+      "weekKPI": "85",
+      "monthKPI": "238842",
+      "id": 4
+    }
+  ]
+}
